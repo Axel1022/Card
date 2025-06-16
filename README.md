@@ -56,4 +56,3 @@ Porque como backend, muchas veces subestimamos lo que implica hacer cosas "simpl
 
 > Este es solo el primer paso de muchos más. Lo importante no es volverse experto en todo, sino **construir puentes entre áreas y equipos**. 💡
 
----
